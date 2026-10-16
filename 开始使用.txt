@@ -1,0 +1,11 @@
+这是一个微信 AI 人格机器人。三步就能用：
+
+1) 安装 Node.js 18+（https://nodejs.org）
+2) 打开终端进入本目录，执行：npm run setup
+   （Windows 也可以直接双击 setup.bat）
+   按提示：填大模型 Key → 选择你的聊天记录 jsonl → 自动生成人设
+3) 执行：npm start   （Windows 双击 start.bat）
+   终端出现二维码后，用微信扫码登录，即可开始聊天。
+
+详细说明见 README.md / INSTALL.md。
+注意：本压缩包不含任何密钥和别人的聊天记录，请放心使用。

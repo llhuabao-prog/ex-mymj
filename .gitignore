@@ -1,0 +1,31 @@
+# ── 临时解压目录（不上传）──
+my-ex-workflow-temp/
+
+# ── 项目运行时生成的人设（含真实聊天记录，务必不要分发）──
+exes/*/
+
+# ── 机器人密钥与运行状态（绝对不要分发）──
+bot/.env
+bot/.state/
+bot/*.log
+*.log
+
+# ── Node ──
+node_modules/
+
+# ── 打包产物 ──
+dist/
+
+# ── OS ──
+.DS_Store
+Thumbs.db
+
+# ── IDE ──
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── 临时文件 ──
+/tmp/
+*.tmp
